@@ -1,0 +1,8 @@
+# Your script id stays local
+.clasp.json
+.clasprc.json
+
+# Never commit run data: postings, companies, contacts
+data/
+*.csv
+node_modules/
